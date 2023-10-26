@@ -75,7 +75,7 @@ workspace {
             autoLayout
         }
 
-        themes default "https://static.structurizr.com/themes/microsoft-azure-2021.01.26/theme.json"
+        themes default "https://static.structurizr.com/themes/microsoft-azure-2023.01.24/theme.json"
 
         styles {
             element "Azure" {
